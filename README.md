@@ -1,10 +1,2 @@
-123450012  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-123456
+123450012 
+12345
